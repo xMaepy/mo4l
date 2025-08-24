@@ -152,8 +152,7 @@ window.addEventListener('resize', function() {
 // --- Music Player ---
 
 const songs = [
-    { title: 'mAnITtA - bATEMENE', url: 'music/mAnITtA - bATEMENE.mp3' },
-    { title: '4IKIDO - S4GOODIZER', url: 'music/4IKIDO - S4GOODIZER.mp3' }
+    { title: 'mAnITtA - bATEMENE', url: 'mAnITtA - bATEMENE.mp3' }
 ];
 
 const audioPlayer = document.getElementById('audio-player');
